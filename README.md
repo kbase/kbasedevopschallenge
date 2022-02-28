@@ -8,7 +8,7 @@ There are a few issues we wish you to try to resolve.
 
 1. The helloworld container reports errors in its docker logs and then exits.  Resolving the issue should mean the app is available at http://localhost:8080 inside the helloworld container.
 2. The nginx container reports errors connecting to the helloworld container.  Resolving the issue should mean the app is available at http://localhost.  (If your current environment already has a listener on port 80, feel free to have nginx listen on a different port.)
-3. We would like a small simple script (preferably in Python or bash) to scan the access logs and report the top five remote clients.
+3. We would like a small simple script (preferably in Python or bash) to scan the access logs and report the top five remote clients. The access logs are provided via email to you ("access_log.challenge.gz")
 
 ## Optional Stretch Goals:
 If time permits: 
