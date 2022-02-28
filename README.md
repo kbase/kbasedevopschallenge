@@ -1,4 +1,5 @@
-Service FAQ: This is our new user signup page. It has two functions, signup and login.  The docker-compose project is dependent on a mysql database, the password is compiled in to the binary.  A successful login should return "Hello".  A failed login returns to the login page.  A successful signup returns "User created!"
+## Service FAQ: 
+This is our new user signup page. It has two functions, signup and login.  The docker-compose project is dependent on a mysql database, the password is compiled in to the binary.  A successful login should return "Hello".  A failed login returns to the login page.  A successful signup returns "User created!"
 
 
 
