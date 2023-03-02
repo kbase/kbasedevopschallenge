@@ -20,7 +20,7 @@ If time permits:
 6. Please provide documentation on how to use your solution
 7. Please do not fork this repo publicly, as other candidates can then see your solution.
 8. Please do not share your solution outside of sending us a copy.
-9. When you are done please send us a .tgz or .gz file with the solution and invite us (@bio-boris, @kkeller) to your *private* github repo where you have uploaded your commits and working solution
+9. When you are done please send us a .tgz or .gz file with the solution and invite us (@bio-boris, @kkellerlbl) to your *private* github repo where you have uploaded your commits and working solution
 
 ## Notes and System Requirements
 The root password for mysqld is `mypass`.
